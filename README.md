@@ -93,9 +93,9 @@ Total                $30322.86       $26646.93       $56969.79
 ```
   
   
-# Task 2 (OPTIONAL) - Python Web API Challenge: Expense Data Service
+# Task 2 - Python Web API Challenge: Expense Data Service
 
-As you will be building a lot of web api backends when working with us, it is a plus if you already know some basics of coding one. This task is optional, but if you're up for some coding, go for it!
+As you will be building a lot of web api backends when working with us, it is a plus if you already know some basics of coding one.
 
 ### **Objective:**
 Building upon the solution you developed in Task 1, your next task is to create a web API that serves the summaries and analyses that you generated in a JSON format. This will allow any application, be it a web frontend or mobile app, to fetch and utilize the processed data.
