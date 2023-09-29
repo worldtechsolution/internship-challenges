@@ -103,14 +103,14 @@ Building upon the solution you developed in Task 1, your next task is to create 
 ### **Tasks:**
 1. Setting Up:
 - Set up a web server using a Python web framework of your choice (e.g., Flask, Django, FastAPI).
-- Make sure your server can read and process the expenses.csv file (your web api code should include the expense data processing and analysis code)
+- Make sure your server can read and process the `expenses.csv` file
 
 2. Create the following API Endpoints:
 - GET `/expense_by_type`: Returns the total expense for each expense type in JSON format.
 - GET `/monthly_expenses`: Returns the monthly total expenses in JSON format.
 - GET `/detailed_breakdown`: Returns a structured JSON containing the breakdown of expenses by expense_type, further subdivided by payment_method.
 
-Your code should be able to run and serve the API endpoints locally using python's native built-in web server. (In addition to this, you could also host your application on a cloud application platform like PythonAnywhere and send us a working link.)
+Your code should be able to run and serve the API endpoints locally. Provide clear documentation on how to set up and serve the API.
 
 ### **Output:**
 For example, a GET call to `/expense_by_type` might return:
