@@ -15,7 +15,10 @@ All the best, and looking forward to your submission!
 # Task 1 - Data Processing Challenge: Expense Analysis
 
 ### **Objective:**
-Your task is to process and analyze a dataset containing a record of expenses. The dataset is provided as a CSV file named `expenses.csv`. The main goal is to extract insightful summaries from this data.
+Your task is to process and analyze a dataset containing a record of expenses using core Python functionalities. The dataset is provided as a CSV file named `expenses.csv`. The main objective is to extract insightful summaries from this data.
+
+## IMPORTANT: Use of external libraries like `Pandas`, `NumPy`, or other data processing libraries is not allowed for this challenge. Please only use core Python functionalities and data structures for processing the data. The `csv` library is permissible for reading the dataset.
+
 
 ### **Data:**
 The CSV file contains the following columns:
